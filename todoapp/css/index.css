@@ -1,0 +1,25 @@
+/*giving styles*/
+
+*
+{
+	font-family: 'Capriola', sans-serif;
+	color:black !important;
+}
+h1
+{
+	font-size: 45px;
+}
+th
+{
+	font-size:20px !important;
+}
+td
+{
+	font-size:18px !important;
+	padding: 20px;
+}
+button
+{
+	color: black;
+	font-size: 18px !important;
+}
